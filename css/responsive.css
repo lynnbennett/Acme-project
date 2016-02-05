@@ -1,0 +1,9 @@
+@media (min-width: 320px) and (max-width: 767px) {
+    .slider-image {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 797px) {
+
+}
